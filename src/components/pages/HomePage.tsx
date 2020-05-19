@@ -1,9 +1,12 @@
 import React from "react";
+import { Nav } from "../layouts/nav/Nav";
+import { Hero } from "../layouts/hero/Hero";
 
 const HomePage = () => {
   return (
     <section>
-      <div>Welcome Home</div>
+        <Nav />
+        <Hero />
     </section>
   );
 };
