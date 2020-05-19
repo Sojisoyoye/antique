@@ -1,0 +1,45 @@
+p.text {
+  font-size: 1.2rem;
+  font-weight: 300;
+  color: #000;
+  text-align: start;
+  padding-top: 1.25rem;
+  padding-bottom: 0.125rem;
+}
+
+.catImg {
+    width: 180px; 
+    height: 160px;
+}
+
+.catText {
+    color: #000;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+.marketing .col-lg-4 {
+    /* margin-bottom: 1.5rem; */
+    /* text-align: center; */
+  }
+  /* .marketing h2 {
+    font-weight: 300;
+    font-size: 1.5rem;
+  } */
+  /* .marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  } */
+
+.featurette-divider {
+  margin: 5rem 0;
+}
+
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.05rem;
+  /* padding-top: 2.5rem; */
+}
+
+
