@@ -1,0 +1,62 @@
+p.text {
+  font-size: 1.2rem;
+  font-weight: 300;
+  color: #000;
+  text-align: start;
+  padding-top: 1.25rem;
+  padding-bottom: 0.125rem;
+}
+
+.catImg {
+    width: 180px; 
+    height: 160px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.catImg:hover {
+    transform: scale(1.02);
+    /* transition: transform 0.2s ease-in-out; */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+
+.msg {
+    color: #000;
+}
+
+.catText {
+    color: #000;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+/* .col-lg-4 a:hover img {
+    transform: scale(1.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+} */
+
+/* .marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  .marketing h2 {
+    font-weight: 300;
+    font-size: 1.5rem;
+  }
+  .marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  } */
+
+.featurette-divider {
+  margin: 5rem 0;
+}
+
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.05rem;
+  /* padding-top: 2.5rem; */
+}
+
+

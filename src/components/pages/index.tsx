@@ -14,3 +14,6 @@ const BaseRoutes = () => (
 );
 
 export default BaseRoutes;
+
+
+{/* <NavLink to="/">Home</NavLink> */}
