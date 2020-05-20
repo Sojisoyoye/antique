@@ -9,7 +9,7 @@
     background-size: cover; 
 }
 
-h1 {
+.hero-text {
     padding-top: 8.5rem;
     color: wheat;
 }

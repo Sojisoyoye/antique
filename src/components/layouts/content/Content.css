@@ -10,6 +10,18 @@ p.text {
 .catImg {
     width: 180px; 
     height: 160px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.catImg:hover {
+    transform: scale(1.02);
+    /* transition: transform 0.2s ease-in-out; */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+
+.msg {
+    color: #000;
 }
 
 .catText {
@@ -18,15 +30,20 @@ p.text {
     font-size: 1.5rem;
 }
 
-.marketing .col-lg-4 {
-    /* margin-bottom: 1.5rem; */
-    /* text-align: center; */
+/* .col-lg-4 a:hover img {
+    transform: scale(1.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+} */
+
+/* .marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
   }
-  /* .marketing h2 {
+  .marketing h2 {
     font-weight: 300;
     font-size: 1.5rem;
-  } */
-  /* .marketing .col-lg-4 p {
+  }
+  .marketing .col-lg-4 p {
     margin-right: .75rem;
     margin-left: .75rem;
   } */

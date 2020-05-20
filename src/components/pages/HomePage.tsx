@@ -1,6 +1,6 @@
 import React from "react";
-import { Nav } from "../layouts/nav/Nav";
-import { Hero } from "../layouts/hero/Hero";
+import { Nav } from "../layouts/Nav/Nav";
+import { Hero } from "../layouts/Hero/Hero";
 import { Content } from "../layouts/content/Content";
 
 const HomePage = () => {

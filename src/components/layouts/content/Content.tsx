@@ -15,7 +15,7 @@ export const Content = () => {
   return (
     <div className="container text-center">
       <h2>Shop by Types</h2>
-      <p>Select from our wide range of product types and categories</p>
+      <p className="msg">Select from our wide range of product types and categories</p>
 
       <div className="row mt-2 mb-2">
         <div className="col-lg-4">
